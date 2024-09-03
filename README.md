@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snigdha K</h1>
 <h3 align="center">A Passionate Data Science Enthusiast from VNR VJIET</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhileshwar-2509&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshwar-2509" />
+  <img src="https://komarev.com/ghpvc/?username=snigdha-2310&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshwar-2509" />
 </p>
 
 <br>
